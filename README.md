@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante live da black friday do Balta IO.
 
+Funcionalidade
+UTM Builder funciona como um criador de parâmetros de rastreamento (UTM) para ferramentas de web analytics.
 
 Tecnologias e práticas utilizadas:
 
@@ -14,4 +16,4 @@ Tecnologias e práticas utilizadas:
 - PWA 
 - Microsoft UnitTesting
 - Swagger
-- Bootstrap
+- Bootstrap 
